@@ -34,7 +34,7 @@ class Background:
         for _ in range(count):
             x = random.randint(-400, 350)
             y = random.randint(-250, 270)
-            size = random.randint(1, 7) * 2  # Scale size for better visibility
+            size = random.randint(1, 7) * 2  
             self.draw_star(x, y, size)
 
     def draw_moon(self):
@@ -42,7 +42,6 @@ class Background:
         moon = turtle.Turtle()
         moon.hideturtle()
 
-        # Moon Part 1 - White circle
         moon.penup()
         moon.goto(-300, 170)
         moon.pendown()
@@ -51,7 +50,6 @@ class Background:
         moon.circle(40)
         moon.end_fill()
 
-        # Moon Part 2 - Black circle to create crescent effect
         moon.penup()
         moon.goto(-280, 170)
         moon.pendown()
