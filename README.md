@@ -23,4 +23,5 @@ A "GAME OVER!" message is displayed on the screen in red text with the remainnin
 
 
 # Project design and implementation
+I developed this game based on a foundational code pattern featuring a bouncing ball and a paddle.
 # Rate the project sophistication level
