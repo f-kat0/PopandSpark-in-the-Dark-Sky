@@ -31,6 +31,20 @@ This game was developed based on a baseline code pattern with a bouncing ball an
 To ensure the game works properly, I tested it by changing the number of balls and the time limit to see how it performs with different settings. However, there's still a bug where the balls sometimes get stuck on the sides of the walls
 ### Ball class:
 creates a moving, bouncing ball that detects and resolves collisions with walls, other balls, and a paddle.
+### Paddle class:
+creates a paddle that moves horizontally to follow the shooter's position.
+### Shooter class:
+creates an arrow(acts like a shooter) that moves left and right and provides its position.
+### Bullet class:
+creates a moving bullet that travels upwards, detects when it goes off-screen, and provides its position.
+### Firework class:
+creates a burst of colorful particles that move and shrink over time, with each particle having a limited lifetime.
+### Background class:
+sets up the screen, draws stars, a moon, and updates the display.
+### Frame class:
+draws a white frame around the screen.
+### Game class:
+manages the game flow, handling the creation of objects, time tracking, player controls, movement, collisions, win/lose conditions, and displaying the game status.
 # Rate the project sophistication level
 ### 85  
 Since there are still a lot of things I wanted to add to make it more effective and interesting but couldn't make it in time.
