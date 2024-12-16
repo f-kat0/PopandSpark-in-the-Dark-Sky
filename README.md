@@ -23,5 +23,6 @@ A "GAME OVER!" message is displayed on the screen in red text with the remainnin
 
 
 # Project design and implementation
-I developed this game based on a foundational code pattern featuring a bouncing ball and a paddle.
+This game was developed based on a baseline code pattern with a bouncing ball and a paddle. I added a shooter and a firework effect for making it more fun and enjoyable.
+To ensure the game works properly, I tested it by changing the number of balls and the time limit to see how it performs with different settings. However, there's still a bug where the balls sometimes get stuck on the sides of the walls.
 # Rate the project sophistication level
