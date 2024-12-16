@@ -22,7 +22,7 @@ A "YOU WIN" message is displayed on the screen in green text with the time taken
 ![alt text](https://github.com/f-kat0/PopandSpark-in-the-Sky/blob/94cb6b99fe15b9739e759acca4d210573693d260/win%20pic.png)
 #### Lose Condition: 
 #### The time runs out before all the balls are popped.
-A "GAME OVER!" message is displayed on the screen in red text with the remainning balls.
+A "GAME OVER!" message is displayed on the screen in red text with the remaining balls.
 ![alt text](https://github.com/f-kat0/PopandSpark-in-the-Sky/blob/a1970bbc6f1fa1e9ce408e30c93d3031de6774c7/lose%20pic.png)
 
 
@@ -31,4 +31,4 @@ This game was developed based on a baseline code pattern with a bouncing ball an
 To ensure the game works properly, I tested it by changing the number of balls and the time limit to see how it performs with different settings. However, there's still a bug where the balls sometimes get stuck on the sides of the walls.
 # Rate the project sophistication level
 ### 85  
-Since there are still a lot of things I want to add to make it more effective and interesting but couldn't make it in time.
+Since there are still a lot of things I wanted to add to make it more effective and interesting but couldn't make it in time.
