@@ -9,5 +9,8 @@ The game allows a player to shoot bullets from a red arrow to pop bouncing balls
 ### 4. Run the run.py file to start the game and enjoy!
 
 # Usage
+### Left and Right Arrow Keys: Control the direction of the shooter.
+### Spacebar: Shoot bullets.
+
 # Project design and implementation
 # Rate the project sophistication level
