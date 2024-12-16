@@ -11,6 +11,15 @@ The game allows a player to shoot bullets from a red arrow to pop bouncing balls
 # Usage
 ### Left and Right Arrow Keys: Control the direction of the shooter.
 ### Spacebar: Shoot bullets.
+### Expected Outputs:
+### Win Condition: 
+### All the balls are popped before the time runs out.
+A "YOU WIN" message is displayed on the screen in green text with the time taken.
+### Lose Condition: 
+### The time runs out before all the balls are popped.
+A "GAME OVER!" message is displayed on the screen in red text with the remainning balls.
+
+
 
 # Project design and implementation
 # Rate the project sophistication level
