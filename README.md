@@ -15,6 +15,7 @@ The game allows a player to shoot bullets from a red arrow to pop bouncing balls
 ### Win Condition: 
 ### All the balls are popped before the time runs out.
 A "YOU WIN" message is displayed on the screen in green text with the time taken.
+![alt text](https://github.com/f-kat0/PopandSpark-in-the-Sky/blob/94cb6b99fe15b9739e759acca4d210573693d260/win%20pic.png)
 ### Lose Condition: 
 ### The time runs out before all the balls are popped.
 A "GAME OVER!" message is displayed on the screen in red text with the remainning balls.
