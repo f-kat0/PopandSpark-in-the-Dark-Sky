@@ -11,6 +11,7 @@ The game allows a player to shoot bullets from a red arrow to pop bouncing balls
 # Usage
 ### Left and Right Arrow Keys: Control the direction of the shooter.
 ### Spacebar: Shoot bullets.
+
 ### Expected Outputs:
 ### Win Condition: 
 ### All the balls are popped before the time runs out.
