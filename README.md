@@ -28,7 +28,9 @@ A "GAME OVER!" message is displayed on the screen in red text with the remaining
 
 # Project design and implementation
 This game was developed based on a baseline code pattern with a bouncing ball and a paddle. I added a shooter and a firework effect for making it more fun and enjoyable.
-To ensure the game works properly, I tested it by changing the number of balls and the time limit to see how it performs with different settings. However, there's still a bug where the balls sometimes get stuck on the sides of the walls.
+To ensure the game works properly, I tested it by changing the number of balls and the time limit to see how it performs with different settings. However, there's still a bug where the balls sometimes get stuck on the sides of the walls
+### Ball class:
+creates a moving, bouncing ball that detects and resolves collisions with walls, other balls, and a paddle.
 # Rate the project sophistication level
 ### 85  
 Since there are still a lot of things I wanted to add to make it more effective and interesting but couldn't make it in time.
