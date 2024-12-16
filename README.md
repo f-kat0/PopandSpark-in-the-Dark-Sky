@@ -19,6 +19,7 @@ A "YOU WIN" message is displayed on the screen in green text with the time taken
 ### Lose Condition: 
 ### The time runs out before all the balls are popped.
 A "GAME OVER!" message is displayed on the screen in red text with the remainning balls.
+![alt text](https://github.com/f-kat0/PopandSpark-in-the-Sky/blob/a1970bbc6f1fa1e9ce408e30c93d3031de6774c7/lose%20pic.png)
 
 
 # Project design and implementation
