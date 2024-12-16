@@ -12,12 +12,12 @@ The game allows a player to shoot bullets from a red arrow to pop bouncing balls
 ### Left and Right Arrow Keys: Control the direction of the shooter.
 ### Spacebar: Shoot bullets.
 ### Expected Outputs
-### Win Condition: 
-### All the balls are popped before the time runs out.
+#### Win Condition: 
+#### All the balls are popped before the time runs out.
 A "YOU WIN" message is displayed on the screen in green text with the time taken.
 ![alt text](https://github.com/f-kat0/PopandSpark-in-the-Sky/blob/94cb6b99fe15b9739e759acca4d210573693d260/win%20pic.png)
-### Lose Condition: 
-### The time runs out before all the balls are popped.
+#### Lose Condition: 
+#### The time runs out before all the balls are popped.
 A "GAME OVER!" message is displayed on the screen in red text with the remainning balls.
 ![alt text](https://github.com/f-kat0/PopandSpark-in-the-Sky/blob/a1970bbc6f1fa1e9ce408e30c93d3031de6774c7/lose%20pic.png)
 
