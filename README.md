@@ -47,4 +47,4 @@ draws a white frame around the screen.
 manages the game flow, handling the creation of objects, time tracking, player controls, movement, collisions, win/lose conditions, and displaying the game status.
 # Rate the project sophistication level
 ### 85  
-Since there are still a lot of things I wanted to add to make it more effective and interesting but couldn't make it in time.
+Since there are still a lot of things I wanted to add and improve to make it more effective and interesting but couldn't make it in time.
