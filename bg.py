@@ -6,7 +6,7 @@ class Background:
     def __init__(self):
         self.screen = turtle.Screen()
         self.screen.bgcolor("black")
-        self.screen.title("Interactive Fireworks with OOP")
+        self.screen.title("Pop&Spark in the Sky")
         self.screen.setup(width=800, height=600)
         self.screen.tracer(0)
 
